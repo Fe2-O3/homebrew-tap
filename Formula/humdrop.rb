@@ -3,7 +3,7 @@ class Humdrop < Formula
   homepage "https://github.com/Fe2-O3/HumDrop"
   url "https://github.com/Fe2-O3/HumDrop/archive/refs/tags/v0.082.tar.gz"
   sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
-  license "Apache-2.0"
+  license "GPL-3.0-only"
   head "https://github.com/Fe2-O3/HumDrop.git", branch: "main"
 
   depends_on "python@3.12"
