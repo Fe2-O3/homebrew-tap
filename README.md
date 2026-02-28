@@ -5,12 +5,13 @@ Homebrew formulae for [Fe2-O3](https://github.com/Fe2-O3) projects.
 ## Install
 
 ```bash
-brew tap Fe2-O3/tap
-brew install --cask humdrop
+brew install Fe2-O3/tap/humdrop
 ```
 
-## Available Casks
+## Available Formulae
 
-| Cask | Description |
-|------|-------------|
+| Formula | Description |
+|---------|-------------|
 | `humdrop` | Sync 4K video and photos from WiFi bird and trail cameras |
+
+Builds from source — no code signing required, no Gatekeeper warnings.
